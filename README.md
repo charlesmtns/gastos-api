@@ -17,3 +17,8 @@ Após baixar o projeto, crie uma base de dados no seu banco local, altere o arqu
 * php artisan migrate
 * php artisan db:seed
 * php artisan serve --host=localhost --port=8081
+
+# Acesso
+Acesse no Navegador o endereço http://localhost:8081
+
+
