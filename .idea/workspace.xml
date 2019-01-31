@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9ec71239-d869-4c45-8dca-27fa811f2888" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/resources/lang/pt_BR" beforeDir="false" afterPath="$PROJECT_DIR$/resources/lang/pt_BR" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/lang/pt_BR/pagination.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/lang/pt_BR/pagination.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,38 +16,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="validation.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="validation.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/resources/lang/pt_BR/validation.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pagination.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/resources/lang/pt_BR/pagination.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="12" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="passwords.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/resources/lang/pt_BR/passwords.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="auth.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/resources/lang/pt_BR/auth.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+            <state relative-caret-position="342">
+              <caret line="141" lean-forward="true" selection-start-line="141" selection-end-line="141" />
             </state>
           </provider>
         </entry>
@@ -86,11 +58,11 @@
         <option value="$PROJECT_DIR$/app/Http/Requests/CadastroGastoRequest.php" />
         <option value="$PROJECT_DIR$/resources/views/index.blade.php" />
         <option value="$PROJECT_DIR$/routes/web.php" />
-        <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/resources/lang/pt_BR/passwords.php" />
         <option value="$PROJECT_DIR$/resources/lang/pt_BR/auth.php" />
-        <option value="$PROJECT_DIR$/resources/lang/pt_BR/validation.php" />
         <option value="$PROJECT_DIR$/resources/lang/pt_BR/pagination.php" />
+        <option value="$PROJECT_DIR$/resources/lang/pt_BR/passwords.php" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/resources/lang/pt_BR/validation.php" />
       </list>
     </option>
   </component>
@@ -251,6 +223,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Projetos\api-gastos\resources\lang\pt_BR" />
       <recent name="D:\Projetos\api-gastos\public" />
     </key>
   </component>
@@ -285,12 +258,12 @@
       <workItem from="1548939816079" duration="45000" />
       <workItem from="1548946304220" duration="7130000" />
       <workItem from="1548953972677" duration="8412000" />
-      <workItem from="1548971172268" duration="680000" />
+      <workItem from="1548971172268" duration="1347000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30348000" />
+    <option name="totallyTimeSpent" value="31015000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -302,8 +275,8 @@
       <window_info anchor="bottom" id="Version Control" order="4" />
       <window_info id="npm" order="1" side_tool="true" />
       <window_info anchor="bottom" id="Run" order="7" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.39601138" />
-      <window_info content_ui="combo" x="582" y="181" width="372" height="461" id="Project" order="2" visible="true" weight="0.28322148" />
+      <window_info anchor="bottom" id="Terminal" order="3" visible="true" weight="0.39601138" />
+      <window_info active="true" content_ui="combo" x="582" y="181" width="372" height="461" id="Project" order="2" visible="true" weight="0.28322148" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="0" />
       <window_info id="Structure" order="3" side_tool="true" weight="0.25" />
@@ -587,43 +560,43 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/lang/pt_BR/passwords.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/lang/pt_BR/auth.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/resources/lang/pt_BR/LICENSE">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-2448" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/resources/lang/pt_BR/passwords.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/lang/pt_BR/validation.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        <state relative-caret-position="221">
+          <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/resources/lang/pt_BR/pagination.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="12" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
+        <state relative-caret-position="238">
+          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/lang/pt_BR/auth.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="14" lean-forward="true" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/lang/pt_BR/validation.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="141" lean-forward="true" selection-start-line="141" selection-end-line="141" />
         </state>
       </provider>
     </entry>
